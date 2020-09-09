@@ -1,0 +1,1 @@
+This repository contains code for different hobby projects written in python. "Heart diagnosis" contains a notebook where a bayesian belief network is fitted to data related to wheter the patient has a heart dissease or not
