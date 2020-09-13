@@ -1,7 +1,7 @@
 This repository contains code for different hobby projects written in python. 
 - "Heart diagnosis" contains a notebook where a bayesian belief network is fitted to data related to wheter the patient has a heart dissease or not. 
   
--"Semantic segmentation for Paris cityscape" showcases how we can train a deep convolutional network, U-net architecture, to segment images in this case of a road and the surroundings (temporary note, the code works as it should but I must have uploaded a version where I didn't let it finish the training). 
+-"Semantic segmentation for Paris cityscape" showcases how we can train a deep convolutional network, U-net architecture, to segment images in this case of a road and the surroundings. 
   
 -"Spam or ham" goes through how to create a spam filter by either using the frequency of words as the input data or by having complete emails and getting tf-idf vector as features (side note, it has to be run on a computer with at least 6.75GiB of memory since no feature selection is performed and will be updated with a finished example). 
   
